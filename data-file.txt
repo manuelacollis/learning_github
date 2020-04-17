@@ -2,6 +2,6 @@ This session took place on April 17, 2020.
 
 Here, I create project #2
 
-I make some changes
+I make some first changes to this document.
 
 I make some more changes - now through GitHub.com.
